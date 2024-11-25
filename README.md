@@ -2,11 +2,10 @@
 
 - I’m currently learning **UNC functions**
 
-- Ask me about **luau, python, lego (you know what it is)**
+- Ask me about **luau, python, lego game (you know what it is)**
 
 - funfact: **Im terrible at everythin**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
