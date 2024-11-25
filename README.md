@@ -1,4 +1,4 @@
-<h3 align="center">Im not a newgen.</h3>
+<h3 align="center">Terry (rip terry davis)</h3>
 
 - I’m currently learning **UNC functions**
 
